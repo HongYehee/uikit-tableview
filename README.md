@@ -1,1 +1,1 @@
-## UIKit 7️⃣: TableView 연습을 위한 '영화 목록'
+## 7️⃣ TableView 연습을 위한 '영화 목록'
